@@ -1,2 +1,0 @@
-# bp-t3b04-yc-room-top5-2
-BPaaS portfolio: t3b04-yc-room-top5-2
